@@ -1,0 +1,28 @@
+/*
+    Kent State University
+    CS 44105/54105 Web Programming I
+    Fall 2017
+    Assignment 3
+    The World’s Hardest Game 2 Remake
+    worldshardestgame.css
+    Author 1: Abdulkareem Alali, aalali1@kent.edu
+    Author 2: Most Arjuman Sultana, msultana@kent.edu
+*/
+
+body{
+    background-color:black;
+    font-family:'Press Start 2P',cursive;
+}
+p{
+    color:white;
+    margin-bottom:5px;
+    font-size:1.2em;
+    display:flex;
+    justify-content:space-between;
+}
+main {
+    height:1000px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
